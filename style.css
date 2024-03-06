@@ -8007,12 +8007,4 @@ html {
     font-display: auto;
   }
 
-  .keywords-hidden {
-    position: absolute;
-    visibility: hidden;
-    opacity: 0;
-    pointer-events: none;
-    height: 0;
-    width: 0;
-    overflow: hidden;
-}
+  
